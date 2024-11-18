@@ -1,0 +1,123 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+.navbar{
+    list-style: none;
+    display:flex;
+    gap:1rem;
+    display:block;
+}
+
+.navbar a{
+    text-decoration: none;
+    margin:10px;
+    color:grey;
+    font-size: smaller;
+    
+    
+}
+
+.floatl{
+    float:left;
+    padding-top:5px;
+
+}
+
+.floatr{
+    float:right;
+    padding-top:5px;
+
+}
+
+#google{
+    margin-top:10rem;
+    margin-left:20rem;
+    
+}
+
+.searchbar{
+    width:25rem;
+    height:3rem;
+    margin:10px;
+    
+    
+    
+}
+
+.search{
+    width:25rem;
+    height:2rem;
+ border-radius:25px;
+ margin-left:15rem;
+ position: relative;
+ border: 1px solid lightgrey;
+
+}
+
+#glass{
+    position:absolute;
+    width:20px;
+    margin-left:250px;
+    margin-top:-25px;
+
+}
+
+#mic{
+    width:9px;
+    position:absolute;
+    margin-left:610px;
+    margin-top:-25px;
+}
+
+
+.buttons{
+    width:100%;
+    margin-left:20rem
+    
+}
+
+#button1{
+    border:0;
+    width:8rem;
+    height:2rem;
+}
+
+#button2{
+    border:0;
+    width:8rem;
+    height:2rem;
+}
+
+p{
+    margin-left:19.5rem;
+    margin-top:20px;
+    
+}
+span{
+    color:blue;
+    text-decoration: underline;
+}
+
+#signin{
+    background-color:rgb(66, 133, 244);
+    color:white;
+    width:5rem;
+    height:1.5rem;
+    text-align: center;
+    padding:3px;
+}
+
+#app{
+    
+    width:30px;
+    margin-top:2px;
+    
+}
+
+
+
